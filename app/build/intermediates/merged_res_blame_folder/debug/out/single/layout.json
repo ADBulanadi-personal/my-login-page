@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.android.codelabs.lifecycle.app-mergeDebugResources-28:/layout/activity_home_page.xml",
+        "source": "com.example.android.codelabs.lifecycle.app-main-31:/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "com.example.android.codelabs.lifecycle.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.example.android.codelabs.lifecycle.app-main-31:/layout/activity_main.xml"
+    }
+]
